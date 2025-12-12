@@ -9,7 +9,7 @@
 
 ### 🌱 About Me  
 - I’m currently learning **Full Stack Development** (Spring Boot, Hibernate, React.js)  
-- All of my projects are available at **https://github.com/rdprince0**  
+- All of my projects are available at **https://github.com/rajrishabh123**  
 - Ask me about **Java, Spring Boot, React.js, SQL, C, C++**  
 - 📫 Reach me at **rishabhraj4310@gmail.com**  
 
