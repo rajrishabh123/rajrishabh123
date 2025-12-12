@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rdprince0&label=Profile%20views&color=brightgreen&style=flat-square" alt="rdprince0" />
+  <img src="https://komarev.com/ghpvc/?username=rajrishabh123&label=Profile%20views&color=brightgreen&style=flat-square" alt="rajrishabh123" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - I’m currently learning **Full Stack Development** (Spring Boot, Hibernate, React.js)  
 - All of my projects are available at **https://github.com/rdprince0**  
 - Ask me about **Java, Spring Boot, React.js, SQL, C, C++**  
-- 📫 Reach me at **prince.raj.080870@gmail.com**  
+- 📫 Reach me at **rishabhraj4310@gmail.com**  
 
 ---
 
